@@ -3,6 +3,13 @@ package DateandTime;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+
+///  mainly used dor the date and the time
+/// we can specify using the whether date it the time
+/// this is the data and the time
+/// import java.time.LocalDateTime
+/// of we inly use date
+/// import java.time,LocalDate
 public class launch1 {
     public static void main(String[] args) {
         LocalDate date = LocalDate.now();
